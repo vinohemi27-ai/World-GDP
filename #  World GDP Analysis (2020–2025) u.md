@@ -244,6 +244,26 @@ WHERE t2024.year = '2024' AND t2025.year = '2025'
 
 ORDER BY gdp\_growth DESC;
 
+***Key Learnings***
+
+Handling NULL values with COALESCE
+
+Using ALTER TABLE for schema cleaning
+
+Unpivoting with UNION ALL
+
+Ranking with window functions
+
+Calculating volatility (standard deviation) and YoY growth
+
+
+***Tools Used***
+
+MySQL for data cleaning and analysis
+
+Power BI for visualization
+
+
 
 
 
